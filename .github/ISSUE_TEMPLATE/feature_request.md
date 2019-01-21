@@ -2,9 +2,8 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: ''
-assignees: ''
-projects: ''
+labels: analyse
+assignees: Yvonne78
 
 ---
 
