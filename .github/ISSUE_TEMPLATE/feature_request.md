@@ -4,6 +4,7 @@ about: Suggest an idea for this project
 title: ''
 labels: analyse
 assignees: Yvonne78
+projects: Bugs
 
 ---
 
