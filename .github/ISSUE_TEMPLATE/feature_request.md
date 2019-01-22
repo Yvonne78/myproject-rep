@@ -28,11 +28,11 @@ projects: Bugs
 
 ### Are there known dependencies to other requests, bugs or parts of the system?
 *List here known dependencies.*
-Example:*
-* *  Item 1*
-* * Item 2*
-*  * Item 2a*
-*  * Item 2b*
+*Example:*
+* Item 1
+* Item 2
+   * Item 2a*
+   * Item 2b*
 
 ### Additional context
 *Add any other context or screenshots about the feature request here.*
@@ -41,14 +41,14 @@ Example:*
 
 # Analysis of the feature requset (IT)
 
-**Estimated effort:** ?
+###Estimated effort: ?
 
 ### Are there known dependencies to other parts of the system?
 *List here known dependencies.*
 
 ### Todos:
-*List here development tasks. 
-Example:
+*List here development tasks.* 
+*Example:*
 - [x] this is a complete item
 - [ ] this is an incomplete item*
 
