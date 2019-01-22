@@ -46,6 +46,8 @@ projects: Bugs
 ### Are there known dependencies to other parts of the system?
 *List here known dependencies.*
 
+###Assigne ticket to: ?
+
 ### Todos:
 *List here development tasks.* 
 *Example:*
