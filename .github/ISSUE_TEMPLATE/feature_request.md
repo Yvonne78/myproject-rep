@@ -7,15 +7,30 @@ assignees: Yvonne78
 projects: Bugs
 
 ---
+# Description of the feature request
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Is your feature request related to a problem or is this a new system requirement?
 
-**Describe the solution you'd like**
+**Problem:** yes/no
+**New system requirement:** yes/no
+
+**Description:**
+A clear and concise description of what the problem is or what the new system requirement is.
+
+## What is the goal of your feature request?
+A clear and consise description of what the problem or what the new system requirement is.
+
+## What is the propose of your feature request?
+A short description of what should be achieved.
+
+## Describe the solution you'd like
 A clear and concise description of what you want to happen.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Are there known dependencies to other requests, bugs or parts of the system?
 
-**Additional context**
+## Additional context**
 Add any other context or screenshots about the feature request here.
+
+# Analysis of the feature requset (IT)
+
+**Estimated effort: **
