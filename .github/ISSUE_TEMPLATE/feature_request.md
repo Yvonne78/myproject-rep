@@ -4,9 +4,9 @@ about: Suggest an idea for this project
 title: ''
 labels: analyse
 assignees: Yvonne78
-projects: Bugs
 
 ---
+
 # Description of the feature request
 
 ### Is your feature request related to a problem or is this a new system requirement?
@@ -53,7 +53,3 @@ projects: Bugs
 *Example:*
 - [x] this is a complete item
 - [ ] this is an incomplete item*
-
-
-
-
