@@ -33,12 +33,13 @@ assignees: Yvonne78
 
 # Analysis of the feature requset (IT)
 
-###Estimated effort: PT
+### Estimated effort: PT
 
 ### Are there known dependencies to other parts of the system?
 -
 
 ### Assigne ticket to: 
+-
 
 ### Todos:
 - [x] this is a complete item
