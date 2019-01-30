@@ -26,6 +26,9 @@ assignees: Yvonne78
 ### Are there known dependencies to other requests, bugs or parts of the system?
 -
 
+### Contact Person:
+-
+
 ### Additional context
 -
 
@@ -38,7 +41,7 @@ assignees: Yvonne78
 ### Are there known dependencies to other parts of the system?
 -
 
-### Assigne ticket to: 
+### Analyst: 
 -
 
 ### Todos:
