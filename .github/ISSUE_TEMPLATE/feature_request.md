@@ -6,14 +6,9 @@ labels: analyse
 assignees: Yvonne78
 
 ---
-
-# Description of the feature request
-
 ### Is your feature request related to a problem or is this a new system requirement?
-
 **Problem:** 
 **New system requirement:**
-
 **Description:**
 -
 
@@ -40,6 +35,8 @@ assignees: Yvonne78
 
 ### Are there known dependencies to other parts of the system?
 -
+
+### Possible Solution:
 
 ### Analyst: 
 -
