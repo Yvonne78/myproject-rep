@@ -7,40 +7,41 @@ assignees: Yvonne78
 
 ---
 
-### Description:
+**Description:**
 -
 
-### Problem or a new system Requiremet?
+**Problem or a new system Requiremet:**
 -
 
-### What is the goal/propose of your feature request?
+**Goal/propose of your feature request:**
 -
 
-### Describe the solution you'd like
+**Solution you'd like:**
 -
 
-### Are there known dependencies to other requests, bugs or parts of the system?
+**Dependencies to other requests, bugs or parts of the system:**
 -
 
-### Contact Person:
+**Contact Person:**
 -
 
-### Additional context
+**Additional context:**
 -
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-# Analysis of the feature requset (IT)
+### Analysis of the feature requset (IT)
 
-### Estimated effort: PT
-
-### Are there known dependencies to other parts of the system?
+**Estimated effort in days:** 
 -
 
-### Possible Solution:
+**Dependencies to other requests, bugs or parts of the system:**
 -
 
-### Contact Person: 
+**Possible Solution:**
+-
+
+**Contact Person:**
 -
 
 ### Todos:
