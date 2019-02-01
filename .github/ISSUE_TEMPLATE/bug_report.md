@@ -6,18 +6,17 @@ labels: bug
 assignees: ''
 
 ---
-
-**Describtion**
+**Describtion:**
 -
 
 **Steps to reproduce the behavior:**
 -
 
-**Expected behavior**
+**Expected behavior:**
 -
 
-**Screenshots**
+**Screenshots:**
 -
 
-**Additional context**
+**Additional context:**
 -
